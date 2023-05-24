@@ -25,3 +25,8 @@ Time:
 
     Estimated: 10 hours
     Spent: 8 hours
+    
+    
+Metodológia usada:   
+
+     Scrum Master

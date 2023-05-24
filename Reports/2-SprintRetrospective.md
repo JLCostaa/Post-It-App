@@ -5,7 +5,7 @@
 
 ##
 
-Difficulties:
+Dificuldades:
 
        O desenvolvimento do projeto teve duração de 4 dias sendo um dia para cada task criada onde a estimativa maior 
     de tempo se concentrou na quinta pra integração com o backend  e na sexta  a integração com o banco de dados.

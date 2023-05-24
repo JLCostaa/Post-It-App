@@ -21,3 +21,7 @@ Agile Methods: Detecção rápida de bugs e Execução mais rápida do projeto
     
           Além de se mostrar  eficiente na prática de terminar um componente e rodar a aplicação inteira
         sendo ela uma característica comum nos métodos ágeis, onde o foco é na entrega contínua.
+        
+Metodológia usada:
+
+       XP(Extreme Programming)

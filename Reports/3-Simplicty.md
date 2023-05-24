@@ -6,7 +6,7 @@
 
 
 
-Difficulties:
+Dificuldades:
 
       Não houve dificuldades significativas relacionadas à simplicidade e aos métodos ágeis XP 
     (Extreme Programming) pois a ideia é facilitar o desenvolvimento.

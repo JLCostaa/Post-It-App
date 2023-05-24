@@ -1,13 +1,13 @@
 # Defining Continuous Integration
 
-      Detectamos e resolvemos os  problemas de integração que estão presente no ciclo de desenvolvimento.
+      Detecta e resolve os problemas de integração que estão presente no ciclo de desenvolvimento.
     
 
 ##
 
 
 
-Difficulties:
+Dificuldades:
 
         Não encontramos  grandes dificuldades na utilização dessa abordagem, uma vez que ela se mostrou 
       fácil de usar e eficiente na detecção de bugs o que facilitou na execução do projeto de forma que 
